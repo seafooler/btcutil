@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/seafooler/btcutil"
 	"github.com/willf/bitset"
 	"testing"
 	"time"

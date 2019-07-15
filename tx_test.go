@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil"
+	"github.com/seafooler/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 
